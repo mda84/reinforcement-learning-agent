@@ -1,0 +1,5 @@
+gym==0.26.2
+stable-baselines3==1.6.0
+torch>=2.0.0
+matplotlib==3.6.2
+jupyterlab==3.5.0
